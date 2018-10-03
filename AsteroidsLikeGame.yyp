@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "346f04df-603a-4f59-983b-8c33b1beef98",
+            "Value": {
+                "id": "6f7895a6-946a-4243-9e5f-2f28ab3ba896",
+                "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4eb020e6-6cc3-4408-9784-970b60507b64",
             "Value": {
                 "id": "edadaf7a-199f-42a7-bf97-c2101738e2b8",
