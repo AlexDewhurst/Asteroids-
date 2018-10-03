@@ -20,7 +20,7 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
+            "enumb": 65,
             "eventtype": 5,
             "m_owner": "ba8ae17f-39bf-4641-af43-f96a3ca65bea"
         },
@@ -30,7 +30,7 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
+            "enumb": 68,
             "eventtype": 5,
             "m_owner": "ba8ae17f-39bf-4641-af43-f96a3ca65bea"
         },
@@ -40,7 +40,7 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
+            "enumb": 87,
             "eventtype": 5,
             "m_owner": "ba8ae17f-39bf-4641-af43-f96a3ca65bea"
         },
